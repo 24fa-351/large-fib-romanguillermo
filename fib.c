@@ -38,7 +38,6 @@ long long int main(long long int argc, char *argv[]) {
 
    // Output
    printf("%lld\n", fibNum);
-   printf("The size of long long int is: %lu bytes\n", sizeof(long long int));
    return 0;
 }
 
